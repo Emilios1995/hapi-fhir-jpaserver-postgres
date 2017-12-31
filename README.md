@@ -1,3 +1,6 @@
+## Configurar Postgres
+En el archivo `/src/main/java/ca/uhn/fhir/jpa/demo/FhirServerConfig.java` modificar lineas 53-55
+
 ## Running hapi-fhir-jpaserver-example 
 
 En EC2 hay que correr esto primero:
